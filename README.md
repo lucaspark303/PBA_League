@@ -1,4 +1,4 @@
-# PBA_League
+# PBA League
 - 배방 리그
 
 ## Rules
